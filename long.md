@@ -5,4 +5,4 @@ I am also profoundly interested in Open Science and Reproducible Research.
 
 I received my Bachelor’s degree in Biotechnology and my Master’s degree in Quantitative and Computational Biology.
 
-You can find me on [Twitter](https://twitter.com/lorenzoF_SM), [Mastodon](https://fediscience.org/@lorenzoF), and [GitHub](https://github.com/lorenzoFabbri).
+You can find me on [Twitter](https://twitter.com/lorenzoF_SM), [Bluesky](https://bsky.app/profile/lorenzofepi.bsky.social), [Mastodon](https://fediscience.org/@lorenzoF), and [GitHub](https://github.com/lorenzoFabbri).
