@@ -1,1 +1,1 @@
-PhD Student in Epidemiology | Transparent Causal Inference
+PhD student in epidemiology | Transparent causal inference
